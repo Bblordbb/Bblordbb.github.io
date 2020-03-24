@@ -1,0 +1,16 @@
+body {
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 32px;
+	text-transform: none;
+}
+
+hi, h2, h3, h4, h5, h6 {
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 0.6em;
+	text-transform: none;
+}
+
+.subheading {
+	font-family: 'Noto Sans TC', sans-serif;
+	text-transform: none;
+}
