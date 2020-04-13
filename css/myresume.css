@@ -1,7 +1,7 @@
 body {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: capitalize;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -37,7 +37,7 @@ h3 {
 }
 
 p.lead {
-  font-size: 1.15rem;
+  font-size: 1.25rem;
   font-weight: 400;
 }
 
