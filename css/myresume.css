@@ -87,6 +87,10 @@ p.lead {
   background-color: #BD5D38;
 }
 
+.interests-icons a:hover {
+  background-color: #BD5D38;
+}
+
 .dev-icons {
   font-size: 3rem;
 }
