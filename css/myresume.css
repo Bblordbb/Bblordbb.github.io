@@ -196,10 +196,14 @@ a:hover, a:focus, a:active {
   color: #824027;
 }
 
-table thead {
-  background-color: #0c4660;
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #0c4660;
 }
 
-table td {
-  background-color: #868e96;
+.table td, .table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #868e96;
 }
