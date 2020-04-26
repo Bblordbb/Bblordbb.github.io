@@ -195,3 +195,11 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+table thead {
+  background-color: #0c4660;
+}
+
+table td {
+  background-color: #868e96;
+}
