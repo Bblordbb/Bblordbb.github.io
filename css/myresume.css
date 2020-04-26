@@ -180,8 +180,8 @@ a:hover, a:focus, a:active {
     border-color: #454d55;
 }
 
-.table td, .table th {
-    padding: .75rem;
-    vertical-align: top;
-    border-top: 1px solid #868e96;
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #868e96;
 }
