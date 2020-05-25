@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
 .subheading{
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: capitalize;
-    color: #0c4660
+    color: #0c466080
 }
 @media (min-width: 992px) {
   body {
@@ -45,7 +45,7 @@ p.lead {
   text-transform: none;
   font-weight: 500;
   font-family: 'Noto Sans TC', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 
 .social-icons a {
